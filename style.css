@@ -1,0 +1,45 @@
+.container {
+    height: 810px;
+    width: 100%;
+    border: 1px solid red;
+}
+
+.item1 {
+    box-sizing: border-box;
+    height: 70%;
+    border: 1px solid black;
+    width: 100%;
+    display: flex;
+}
+
+.item2 {
+    box-sizing: border-box;
+    height: 30%;
+    border: 1px solid blue;
+    width: 100%;
+    display: flex;
+}
+
+.item11 {
+    width: 70%;
+    background: orange;
+    height: 100%;
+}
+
+.item12 {
+    width: 30%;
+    background: blue;
+    height: 100%;
+}
+
+.item21 {
+    width: 20%;
+    background: red;
+    height: 100%;
+}
+
+.item22 {
+    width: 60%;
+    background: red;
+    height: 100%;
+}
